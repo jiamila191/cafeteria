@@ -1,0 +1,238 @@
+[
+  {
+    "title": "Café Negro",
+    "description": "El café negro es tan simple como lo es con granos de café molidos remojados en agua caliente y servidos calientes. Y si quieres sonar elegante, puedes llamar al café negro por su nombre propio: café noir.",
+    "ingredientes": [
+      "Café"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1494314671902-399b18174975?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3 D%3D",
+    "precio": 50,
+    "id": 1
+  },
+  {
+    "título": "Café con leche",
+    "description": "Como la bebida de café más popular que existe, el café con leche consiste en un trago de espresso y leche al vapor con solo un toque de espuma. Se puede pedir sin sabor o con todo tipo de sabores, desde vainilla hasta especias de calabaza.",
+    "ingredientes": [
+      "Café exprés",
+      "Leche al vapor"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1561882468-9110e03e0f78?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGxhdHRlfGVufDB8fDB8fHww",
+    "precio": 30,
+    "id": 2
+  },
+  {
+    "título": "Latte de caramelo",
+    "description": "Si te gusta el café con leche con un sabor especial, el café con leche con caramelo puede ser la mejor opción para brindarte una experiencia de la dulzura y cremosidad natural de la leche al vapor y el caramelo.",
+    "ingredientes": [
+      "Café exprés",
+      "Leche al vapor",
+      "Jarabe de caramelo"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1599398054066-846f28917f38?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3 D%3D",
+    "precio": 80,
+    "id": 3
+  },
+  {
+    "título": "Capuchino",
+    "description": "El capuchino es un café con leche hecho con más espuma que leche al vapor, a menudo con una pizca de cacao en polvo o canela encima. A veces puedes encontrar variaciones que usan crema en lugar de leche o que también agregan saborizantes.",
+    "ingredientes": [
+      "Café exprés",
+      "Leche al vapor",
+      "Espuma"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1557006021-b85faa2bc5e2?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "precio": 50,
+    "id": 4
+  },
+  {
+    "título": "Americano",
+    "description": "Con un sabor similar al café negro, el americano consiste en un trago de espresso diluido con agua caliente.",
+    "ingredientes": [
+      "Café exprés",
+      "Agua caliente"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1532004491497-ba35c367d634?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D% 3D",
+    "precio": 90,
+    "id": 5
+  },
+  {
+    "título": "Espresso",
+    "description": "Un trago de espresso se puede servir solo o usarse como base para la mayoría de las bebidas de café, como lattes y macchiatos.",
+    "ingredientes": [
+      "Café exprés"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1579992357154-faf4bde95b3d?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3 D",
+    "precio": 50,
+    "id": 6
+  },
+  {
+    "título": "Macchiato",
+    "description": "Un macchiato es otra bebida a base de espresso que tiene una pequeña cantidad de espuma encima. Es el feliz término medio entre un capuchino y un doppio.",
+    "ingredientes": [
+      "Café exprés",
+      "Espuma"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1557772611-722dabe20327?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "precio": 120,
+    "id": 7
+  },
+  {
+    "título": "Moca",
+    "description": "Para todos los amantes del chocolate, se enamorarán del mocha. El mocha es una bebida de chocolate espresso con leche al vapor y espuma.",
+    "ingredientes": [
+      "Café exprés",
+      "Leche al vapor",
+      "Chocolate"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1607260550778-aa9d29444ce1?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D% 3D",
+    "precio": 150,
+    "id": 8
+  },
+  {
+    "título": "Chocolate caliente",
+    "description": "En los días fríos de invierno, una taza de chocolate caliente te hace sentir cómodo y feliz. También te hace sentir bien porque contiene cafeína energizante.",
+    "ingredientes": [
+      "Chocolate",
+      "Leche"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1542990253-0d0f5be5f0ed?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDh8fGhvdCUyMGNob2NvbGF0ZXxlbnww fHwwfHx8MA%3D% 3D",
+    "precio": 80,
+    "id": 9
+  },
+  {
+    "título": "Chai Latte",
+    "description": "Si buscas una bebida caliente sabrosa en pleno invierno, elige chai latte. La combinación de cardamomo y canela le da un sabor maravilloso.",
+    "ingredientes": [
+      "Té",
+      "Leche",
+      "Jengibre",
+      "Cardamomo",
+      "Canela"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1578899952107-9c390f1af1b7?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNoYWklMjBsYXR0ZXxlb nwwfHwwfHx8MA %3D%3D",
+    "precio": 90,
+    "id": 10
+  },
+  {
+    "título": "Matcha Latte",
+    "description": "Matcha latte es una bebida de café verde y saludable con té matcha finamente triturado y leche, que ofrece una dulzura suave, un sabor único y un suave toque de cafeína.",
+    "ingredientes": [
+      "Polvo de Matcha",
+      "Leche",
+      "Azúcar*"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWF0Y2hhJTIwbGF0dGV8 ZW58MHx8MHx 8fDA%3D",
+    "precio": 100,
+    "id": 11
+  },
+  {
+    "title": "Cerveza de temporada",
+    "description": "Café de temporada con diferentes sabores como caramelo, fruta y chocolate",
+    "ingredientes": [
+      "Café"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1611162458324-aae1eb4129a4?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTg1fHxibGFjayUyMGNvZmZlZXxlb nwwfHwwfHx8 MA%3D%3D",
+    "precio": 150,
+    "id": 12
+  },
+  {
+    "título": "Té negro",
+    "description": "El té negro nació en China. Se elabora a partir de las hojas de una planta llamada Camelia y se puede aromatizar de forma diferente, por ejemplo con frutas. Una bebida agradable, cálida, sabrosa y aromática adecuada para el uso diario.",
+    "ingredientes": [
+      "Té"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHRlYXxlbnwwfHwwfHx8 MA%3D%3D",
+    "precio": 20,
+    "id": 13
+  },
+  {
+    "título": "Latte helado",
+    "description": "El café con leche helado es una bebida de café fría que se elabora mezclando espresso y leche fría. Se sirve con cubitos de hielo y también se conoce como café con leche helado o café con leche con hielo.",
+    "ingredientes": [
+      "Café exprés",
+      "Leche",
+      "Hielo",
+      "Jarabe"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aWNlZCUyMGxhdHRlfGVufDB8fDB 8fHww",
+    "precio": 50,
+    "id": 14
+  },
+  {
+    "título": "Islatte Moca",
+    "description": "Iced latte Mocha es una combinación de café con leche y moca, que a su vez es una combinación de chocolate y café. Brinda a los amantes de las bebidas frías una deliciosa experiencia de chocolate y café.",
+    "ingredientes": [
+      "Café exprés",
+      "Hielo",
+      "Leche",
+      "Chocolate "
+    ],
+    "imagen": "https://images.unsplash.com/photo-1642647391072-6a2416f048e5?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fGljZWQlMjBtb2NoYSUy MGxhdHRlfGVufDB 8fDB8fHww",
+    "precio": 50,
+    "id": 15
+  },
+  {
+    "título": "Frapino Caramelo",
+    "description": "Es un café licuado o más bien batido con crema batida encima. Imprescindible para los calurosos días de verano.",
+    "ingredientes": [
+      "café",
+      "Hielo",
+      "Leche",
+      "Jarabe de caramelo",
+      "Crema batida*",
+      "Dulce de leche"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1662047102608-a6f2e492411f?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZnJhcGlubyUyMGNhcmFtZ Wx8ZW58MHx8MH x8fDA%3D",
+    "precio": 70,
+    "id": 16
+  },
+  {
+    "título": "Ante Frapino",
+    "description": "Otra famosa y deliciosa bebida fría para los que prefieren el chocolate. Imagina el sabor de un batido con chocolate y nata montada encima.",
+    "ingredientes": [
+      "Café",
+      "Hielo",
+      "Leche",
+      "Cacao",
+      "Crema batida*"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1530373239216-42518e6b4063?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZnJhcGlubyUyMG1vY2hh fGVufDB8fDB8fHww ",
+    "precio": 50,
+    "id": 17
+  },
+  {
+    "title": "Jugo de naranja",
+    "description": "No tenemos nada que decir sobre nuestro jugo de naranja recién exprimido. Tienes que probarlo tú mismo.",
+    "ingredientes": [
+      "Naranjas frescas",
+      "Hielo"
+    ],
+    "Imagen": "https://images.unsplash.com/photo-16002718886742-F049cd451bbba?auto=Format&fit=crop&q=60&w=800&ixlib=rb-4.0.0.3&ixid=M3w3fmja3w3f W5NZSUYMGP1AWNLFGVUFDB8FDB8FHWW ",
+    "precio": 150,
+    "id": 18
+  },
+  {
+    "title": "Limonada congelada",
+    "description": "La limonada helada es una bebida refrescante de verano que combina jugo de limón recién exprimido, hielo y edulcorante para una sensación de sabor refrescante, agrio y agridulce.",
+    "ingredientes": [
+      "jugo de limon",
+      "Hielo",
+      "Azúcar*"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1523371054106-bbf80586c38c?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGxlbW9uYWRlJTIwd2l0aCU yMGljZXxlbn wwfHwwfHx8MA%3D%3D",
+    "precio": 120,
+    "id": 19
+  },
+  {
+    "título": "Limonada",
+    "description": "Se conoció por primera vez en París y luego se hizo muy popular en toda Europa. Esta bebida carbonatada, dulce e incolora, se elabora mezclando jugo de limón y agua carbonatada.",
+    "ingredientes": [
+      "jugo de limon",
+      "Agua carbonatada",
+      "Miel"
+    ],
+    "imagen": "https://images.unsplash.com/photo-1621263764928-df1444c5e859?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bGVtb25hZGV8ZW58MH x8MHx8fDA%3D",
+    "precio": 50,
+    "id": 20
+  }
+]
